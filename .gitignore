@@ -1,0 +1,11 @@
+# Keil/uVision build outputs
+Objects/
+Listings/
+
+# Local IDE/editor state
+.vscode/
+*.uvguix.*
+
+# Misc generated files
+*.bak
+*.dep
